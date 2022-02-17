@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <skills>
-	<skil1l>Базовая теория</skill1>
+	<skill1>Базовая теория</skill1>
 	<skill2>КлиентСерверная архитектура</skill2>
 	<skill3>Коды ответов HTTP сервера</skill3>
 	<skill4>Тестирование API</skill4>
