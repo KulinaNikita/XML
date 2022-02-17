@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<aboutMe>
+	<firstName>Nikita</firstName>
+	<lastName>Kulina</lastName>
+	<age>29</age>
+	<homePets>1</homePets>
+	<salary>500$</salary>
+</aboutMe>
+
+
