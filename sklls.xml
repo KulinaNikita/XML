@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<skils>
-	<skil1>Базовая теория</skil1>
-	<skil2>КлиентСерверная архитектура</skil2>
-	<skil3>Коды ответов HTTP сервера</skil3>
-	<skil4>Тестирование API</skil4>
-	<skil5>Charles и Fiddler</skil5>
-	<skil6>Dev Tools</skil6>
-	<skil7>VPN</skil7>
-	<skil8>Мобильное тестирование</skil8>
-	<skil9>Jmeter</skil9>
-	<skil10>Scrum</skil10>
-</skil>
+<skills>
+	<skil1l>Базовая теория</skill1>
+	<skill2>КлиентСерверная архитектура</skill2>
+	<skill3>Коды ответов HTTP сервера</skill3>
+	<skill4>Тестирование API</skill4>
+	<skill5>Charles и Fiddler</skill5>
+	<skill6>Dev Tools</skill6>
+	<skill7>VPN</skill7>
+	<skill8>Мобильное тестирование</skill8>
+	<skill9>Jmeter</skill9>
+	<skill10>Scrum</skill10>
+</skill>
 
